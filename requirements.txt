@@ -5,3 +5,4 @@ future==0.18.2
 numpy
 keras
 tensorflow-cpu
+gevent
